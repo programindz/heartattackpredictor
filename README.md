@@ -2,12 +2,12 @@
 A machine learning model using Support Vector Machine classification to predict chances of an individual having a heart attack based on features like age, sex, cholestrol, blood pressure, chest pain, heart beat etc.
 
 # Requirements
-   1.Numpy
-   2.Pandas
-   3.Sckitlearn
+      1.Numpy
+      2.Pandas
+      3.Sckitlearn   
 
 # Training Data
-  Data used for training ![](heart.csv) from Kaggle
+  Data used for training ![heart.csv](https://github.com/programindz/heartattackpredictor/blob/master/heart.csv) from Kaggle
   
  # Training Features
     1. age	
@@ -22,8 +22,8 @@ A machine learning model using Support Vector Machine classification to predict 
     10. oldpeak
 
 # Training Against
-  11. output(1 for cancer, 0 for no cancer)
+     11. output(1 for cancer, 0 for no cancer)
   
 # Models Used
-  1. Support Vector Machine
-  2. Logistic Regression
+     1. Support Vector Machine
+     2. Logistic Regression
